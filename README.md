@@ -1,2 +1,2 @@
 # KFC-Clone_Bootstrap
-this is a kfc clone.
+This is a KFC clone.
